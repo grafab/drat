@@ -13,6 +13,13 @@ License: BSL-1.0
 MD5sum: 1c128e5f9f3cb6227d67d8016206e4f6
 NeedsCompilation: no
 
+Package: brassicaData
+Version: 0.1
+Depends: R (>= 2.10)
+License: GPL-3
+MD5sum: 670e5f2cd60dffea99a4e93499b8b3e9
+NeedsCompilation: no
+
 Package: BreakoutDetection
 Version: 1.0.1.1
 Imports: Rcpp (>= 0.11.2), ggplot2
